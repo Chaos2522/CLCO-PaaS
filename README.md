@@ -1,2 +1,2 @@
-# CLCO-PaaS
-Cloud Computing Project PaaS
+# CloudComputingProject1
+Cloud Computing Project - PaaS 
